@@ -7,9 +7,9 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun game where you
 1. **Choose Your Move**: Select one of the three options: Rock, Paper, or Scissors.
 2. **Computer's Move**: The computer will randomly select one of the three options.
 3. **Result**: The winner is determined based on the following rules:
-   - Rock crushes Scissors
-   - Scissors cuts Paper
-   - Paper covers Rock
+   - Rock beats Scissors
+   - Scissors beats Paper
+   - Paper beats Rock
 
 ## 💾 How to Download and Play
 
@@ -31,13 +31,13 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun game where you
 Here are some screenshots of the game in action:
 
 ### Main Menu
-![Main Menu](path_to_screenshot_1.png)
+![Main Menu](image_01.png)
 
 ### Game Play
-![Game Play](path_to_screenshot_2.png)
+![Game Play](image_02.png)
 
 ### Result Screen
-![Result Screen](path_to_screenshot_3.png)
+![Result Screen](image_03.png)
 
 ## 🙏 Thank You 🙏
 
