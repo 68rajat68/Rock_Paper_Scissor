@@ -4,7 +4,7 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun game where you
 
 ## 🕹️ How to Play
 
-1. **Choose Your Move**: Select one of the three options: Rock, Paper, or Scissors.
+1. **Choose Your Move**: Select one of the three options: Rock, Paper or Scissors.
 2. **Computer's Move**: The computer will randomly select one of the three options.
 3. **Result**: The winner is determined based on the following rules:
    - Rock beats Scissors
@@ -16,7 +16,7 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun game where you
 1. **Download the ZIP File**:
    - Click on the green "Code" button at the top right of the repository page.
    - Select "Download ZIP".
-   - Alternatively, you can clone the repository using the command: `git clone https://github.com/yourusername/rock-paper-scissors.git`
+   - Alternatively, you can clone the repository using the command: `git clone https://github.com/68rajat68/rock-paper-scissors.git`
 
 2. **Extract the ZIP File**:
    - Extract the downloaded ZIP file to a folder on your computer.
