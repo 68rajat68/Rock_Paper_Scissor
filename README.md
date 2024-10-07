@@ -1,6 +1,6 @@
 # 🎮 Rock Paper Scissors Game 🎮
 
-Welcome to the Rock Paper Scissors game! This is a simple yet fun game where you can play against the computer. Let's see who wins!
+Welcome to the Rock Paper Scissors game! This is a simple yet fun game where you can play against the computer. Let's see who wins !!
 
 ## 🕹️ How to Play
 
